@@ -1,5 +1,5 @@
 # README
-# AML Heatmap Analysis
+# Acute Myeloid Leukemia Heatmap Analysis Documentation 
 ======================
 
 A bioinformatics analysis pipeline for visualizing RNA-seq data from acute myeloid leukemia (AML) samples using clustering heatmaps.
